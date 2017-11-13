@@ -14,7 +14,8 @@
 3. code
 
 * javascript 学习
-* Vue框架学习
+* Vue框架学习 --云服务器部署脚本
+* Vue 页面开发，尽量好看，美观
 * leetcode 耍题
 
 4. 健身
